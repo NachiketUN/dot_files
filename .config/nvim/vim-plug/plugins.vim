@@ -19,4 +19,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'    
+    Plug 'morhetz/gruvbox'
+    Plug 'KeitaNakamura/neodark.vim'
 call plug#end()
