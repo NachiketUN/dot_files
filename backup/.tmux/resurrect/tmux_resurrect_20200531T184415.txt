@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	0	:/home/nac/CP	1	vim	:vim
+pane	0	1	:vim	1	:*	1	:/home/nac/CP	0	zsh	:
+window	0	1	1	:*	1d2e,158x41,0,0[158x34,0,0,0,158x6,0,35,1]
+state	0	
